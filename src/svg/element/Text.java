@@ -1,8 +1,5 @@
 package element;
 
-import element.BaseElement;
-import element.Element;
-
 //-----------------------------------------------------------------------------
 
 /**
