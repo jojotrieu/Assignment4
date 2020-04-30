@@ -6,8 +6,8 @@ import java.io.IOException;
 import java.util.Collections;
 import java.util.Comparator;
 
-import element.Element;
-import element.BaseElement;
+import src.svg.element.Element;
+import src.svg.element.BaseElement;
 
 //-----------------------------------------------------------------------------
 
@@ -116,7 +116,7 @@ public class SVGParser
 	{	
 		Collections.sort
 		(
-			svg.elements(), 
+			svg.elements(),
 			new Comparator<Element>() 
 			{
 				@Override
