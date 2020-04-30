@@ -1,4 +1,6 @@
+package src.main;
 
+import src.svg.SVGParser;
 
 import java.io.IOException;
 

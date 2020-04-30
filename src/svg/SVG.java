@@ -1,4 +1,4 @@
-
+package src.svg;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -11,11 +11,11 @@ import java.util.List;
  */
 public class SVG
 {
-	private final List<Element> elements = new ArrayList<Element>();
+	private final List<element.Element> elements = new ArrayList<element.Element>();
 
 	//-------------------------------------------------------------------------
 	
-	public List<Element> elements()
+	public List<element.Element> elements()
 	{
 		return elements;
 	}
@@ -35,7 +35,7 @@ public class SVG
 		final StringBuilder sb = new StringBuilder();
 		
 		sb.append(elements.size() + " elements:\n");
-		for (Element element : elements)
+		for (element.Element element : elements)
 			sb.append(element + "\n");
 		
 		return sb.toString();

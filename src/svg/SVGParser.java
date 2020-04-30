@@ -1,4 +1,4 @@
-package svg;
+package src.svg;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -6,8 +6,8 @@ import java.io.IOException;
 import java.util.Collections;
 import java.util.Comparator;
 
-import svg.element.Element;
-import svg.element.BaseElement;
+import element.Element;
+import element.BaseElement;
 
 //-----------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ public class SVGParser
 {
 	private String fileName = "";
 	
-	private svg.SVG svg = new svg.SVG();
+	private SVG svg = new SVG();
 
 	//-------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ public class SVGParser
 		return fileName;
 	}
 
-	public svg.SVG svg()
+	public SVG svg()
 	{
 		return svg;
 	}
