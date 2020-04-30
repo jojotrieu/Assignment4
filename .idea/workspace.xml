@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8faa8b4-446a-4110-8401-78f8430c39d1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/SVGLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/SVGLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/svg/SVG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/svg/SVG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/svg/SVGParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/svg/SVGParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/svg/element/BaseElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/element/BaseElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/svg/element/Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/element/Element.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/svg/element/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/element/Text.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +28,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -50,6 +57,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="490" y="231" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1588250073083">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="490" y="231" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1588250073083" />
     <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588247618773">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
